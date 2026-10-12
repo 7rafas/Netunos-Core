@@ -58,12 +58,16 @@ A proposta é tornar o **desligamento agendado mais acessível e conhecido**: vo
 4. Caso não queira mais desligar o computador, clique em **Cancelar o desligamento**.
 5. Para modificar atalhos e preferências, acesse **Configurações**; para consultar os registros, abra **Logs**.
 
+</div>
+
 > [!IMPORTANT]
-> **Salve seus arquivos antes do horário programado.** Fechar a janela do aplicativo não deve ser usado como forma de cancelar o desligamento. Utilize o comando **Cancelar o desligamento** para isso.
+> Salve seus arquivos antes do horário programado. Fechar a janela do aplicativo não cancela o desligamento. Utilize o botão **Cancelar o desligamento** para isso.
+
+<div align="center">
 
 ## Instalação
 
-Encontre as duas opções na página de [Releases](https://github.com/SEU_USUARIO/Netunos-Core/releases/latest):
+Encontre as duas opções na página de [Releases](https://github.com/7rafas/Netunos-Core/releases/latest):
 
 | Distribuição | Arquivo | Como utilizar |
 | :--- | :--- | :--- |
@@ -81,6 +85,7 @@ A estética azul do Netuno's Core tem como inspiração visual **Rei Ayanami**, 
 
 ---
 
+
 <div align="center">
-  <sub>Netuno's Core — desligamento agendado de forma simples.</sub>
+  <sub>Netuno's Core — <a href="https://github.com/7rafas">Rafael F.</a></sub>
 </div>
