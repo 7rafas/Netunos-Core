@@ -8,7 +8,7 @@
   <p align="center"><strong>Agende o desligamento do seu computador sem precisar decorar comandos.</strong></p>
 
   <a href="https://github.com/7rafas/Netunos-Core/releases/latest">
-    <img src="https://img.shields.io/github/v/release/SEU_USUARIO/Netunos-Core?label=Release&color=6285CA&logo=github&logoColor=white&style=flat-square" alt="Versão mais recente" />
+    <img src="https://img.shields.io/github/v/release/7rafas/Netunos-Core?label=Release&color=6285CA&logo=github&logoColor=white&style=flat-square" alt="Versão mais recente" />
   </a>
   <img src="https://img.shields.io/badge/Plataforma-Windows-3477BC?style=flat-square&logo=windows&logoColor=white" alt="Plataforma Windows" />
   <a href="https://github.com/7rafas/Netunos-Core/releases">
