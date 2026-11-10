@@ -19,7 +19,7 @@
 
 ### Navegação
 
-[Visão Geral](#visão-geral) · [Novidades da v1.1.0](#-novidades-da-v110) · [Funcionalidades](#funcionalidades) · [Controle Remoto](#-controle-remoto-pelo-celular) · [Interface](#interface) · [Como Usar](#como-usar) · [Instalação](#instalação) · [Identidade Visual](#identidade-visual)
+[Visão Geral](#visão-geral) · [Funcionalidades](#funcionalidades) · [Controle Remoto](#-controle-remoto-pelo-celular) · [Interface](#interface) · [Como Usar](#como-usar) · [Instalação](#instalação) · [Identidade Visual](#identidade-visual)
 
 ---
 
